@@ -11,30 +11,6 @@ quickly.</p>
 
 <br>
 
-<div align="center">
-  <!-- Version -->
-
-   <img src="https://img.shields.io/badge/version-1.0-blue" alt="website">
- 
-  <!-- Build -->
-  <img src="https://img.shields.io/badge/build-passed-brightgreen" alt="LICENSE">
-  <!-- License -->
-  <a href="LICENSE">
-    <img src="https://img.shields.io/badge/license-MIT-red" alt="LICENSE">
-  </a>
-</div>
-
-<div align="center">
-  <!-- Warning -->
-  <img src="https://img.shields.io/badge/NOTICE-%20released%20-green" alt="LICENSE">
-</div>
-
-
-<div align="center">
-  <sub>This Image to PDF Converter Software Tool is built by
-    <a href="https://github.com/skinan/">Muhammad Sakib Khan Inan</a>
-  </sub>
-</div>
 
 ## Screenshots
 
